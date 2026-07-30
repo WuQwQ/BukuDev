@@ -38,7 +38,7 @@ BukuutAPI - 最先进的我的世界接口插件 支持Bukkit/Spigot/Paper/Folia
 你可以加入QQ群: 729365947 获得与Buku大佬近距离交流和学习的机会
 
 ## 我希望补充Buku:Banana大佬的生平事迹怎么办？
-可以通过Fork后再Pull requests的方式来补充
+可以通过 Fork 后再 Pull Requests 的方式来补充
 
 ## Buku:Banana大佬的生平经历太让我感动了，我想进一步学习怎么办？
-访问https://yizhan.wiki/lezi-wiki/article/Buku%E4%BC%A0
+访问 [yizhan](https://yizhan.wiki/lezi-wiki/article/Buku%E4%BC%A0) 之 Buku 传
